@@ -1,5 +1,6 @@
 Hello Gaming Team
 
+<<<<<<< HEAD
 Changes in project branch
 
 Changes in project branch222
@@ -7,3 +8,9 @@ Changes in project branch222
 after merging
 
 bye
+=======
+
+Hiii
+
+hello
+>>>>>>> master
